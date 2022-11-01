@@ -1,6 +1,6 @@
 import { CommonCalendarEventEntity } from '@benzinga/calendar-commons';
 
-/*
+/** */
  * Calendar economics record
  *
  * @export
